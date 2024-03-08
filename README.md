@@ -4,7 +4,7 @@ It has two features. One of its feature is that it can create a pie chart of col
 
 Here, I have used machine learning algorithm, KMeans, to extract colors from a give image. I will use OpenCV2 for image manipulation, apply KMeans to identify the major colors and then plot the information using Matplotlib.
 
-** Video Link - [Youtube](https://www.youtube.com/watch?v=bYJ34pHYDyY) **
+** Video Link - ** [Youtube](https://www.youtube.com/watch?v=bYJ34pHYDyY)
 
 ![image](https://github.com/Garvitkul/Color-Identification-in-Images-using-CV/assets/83578615/72296927-4ba0-456f-8660-e07fb47b6023)
 
